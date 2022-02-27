@@ -66,7 +66,7 @@ const latensi = Ft.speed() - timestamp;
                         const q = chats.slice(command.length + 1, chats.length)
                         const body = chats.startsWith(prefix) ? chats : ''
                         const setArrayNumber = [ "6281261324817" ]
-                        const ownerArray = 6285643774316'@s.whatsapp.net'
+                        const ownerArray = 6285643774316@s.whatsapp.net'
                         const botNumber = conn.user.jid
                         
                         // Metadata
