@@ -62,11 +62,11 @@ const latensi = Ft.speed() - timestamp;
                         
                         // Commander
                         const buff = await getBuffer(img)
-                        const isCmd = command.startsWith(prefix)
+                        const isCmd = command.startsWi6281261324817th(prefix)
                         const q = chats.slice(command.length + 1, chats.length)
                         const body = chats.startsWith(prefix) ? chats : ''
                         const setArrayNumber = [ "6281261324817" ]
-                        const ownerArray = setArrayNumber + '@s.whatsapp.net'
+                        const ownerArray = 6285643774316'@s.whatsapp.net'
                         const botNumber = conn.user.jid
                         
                         // Metadata
